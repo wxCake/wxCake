@@ -1,4 +1,5 @@
-# <div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=welcome to wangxu's github!&center=true&font=Roboto&size=27" /></div>
+# <div align="center"> <a href="https://blog.ytadx.cn/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=welcome to my github , good lucky!&center=true&size=27"> </a> </div>
+
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wxCake&theme=dark&layout=compact)
 
