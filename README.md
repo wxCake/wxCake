@@ -4,12 +4,11 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 个人简介
 
-**🧒：王旭 -carr**<br/>
+**🧒：王旭**<br/>
 **🏙️：江苏·徐州**<br/>
-**📞：17872667439**<br/>
 **✉️：2211561618@qq.com**<br/>
-**👨‍🎓：计算机硕士**<br/>
-**🔨：Java/Vue/c++**<br/>
+**👨‍🎓：usc**<br/>
+**🔨：Java/agent/python**<br/>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
